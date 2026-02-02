@@ -1,0 +1,42 @@
+commit ede0567e7e1982063bfac55b908fb17c33805f56
+Merge: 8372c89 7aa5ce7
+Author: Christopher Renteria <crenter@calstatela.edu>
+Date:   Mon Feb 2 15:26:14 2026 -0800
+
+    Fixed merge conflict
+
+commit 7aa5ce7df67ec1ec5fbf683c984a6a7ecd62d54d
+Author: Christopher Renteria <crenter@calstatela.edu>
+Date:   Mon Feb 2 15:16:47 2026 -0800
+
+    Added my favorite game
+
+commit 8372c890e2d8f5d4f289a0a3bb268ad0748b6eb0
+Author: Christopher Renteria <crenter@calstatela.edu>
+Date:   Mon Feb 2 15:14:46 2026 -0800
+
+    Added my favorite food
+
+commit bb7a0c13a5270cb8d149c900c9e92f07ea790de7
+Author: Christopher Renteria <crenter@calstatela.edu>
+Date:   Mon Feb 2 14:58:26 2026 -0800
+
+    Added and edited README file
+
+commit c8062985fe68a796112b813507fa91cba3ec3447
+Author: Christopher Renteria <crenter@calstatela.edu>
+Date:   Fri Jan 30 11:05:27 2026 -0800
+
+    Filled in the missing info
+
+commit c2ebe7683c886835bd70b105598b1977f23a4a04
+Author: Christopher Renteria <crenter@calstatela.edu>
+Date:   Fri Jan 30 11:05:27 2026 -0800
+
+    Filled in the missing info
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
